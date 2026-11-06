@@ -1,0 +1,8 @@
+{
+    "name": "XP HUD Overlay",
+    "author": "ripsawuk",
+    "version": "1.0",
+    "type": "ui",
+    "requires": [],
+    "description": "XP HUD Overlay v1.0. Provides a visible overlay on your HUD to show you live XP being earned in game. Various customisation options that can be changed in game from positioning, to colours, to bar types (cats??). Dont like the bar? Disable it. Use the text only. Dont like the text? Disable it, use the bar only. Adjust to your liking. Currently only captures operator levelling and XP."
+}

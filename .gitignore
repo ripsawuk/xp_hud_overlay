@@ -1,0 +1,16 @@
+# Python bytecode left by the tools in this folder
+__pycache__/
+*.pyc
+
+# Raw launch evidence: the profile snapshots carry the SteamID64 and the
+# profile's file hashes. The written traces (trace\*.md) stay tracked.
+trace/*.txt
+
+# Source art master for the workshop cover; preview.png is the published image
+cover.psd
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.vscode/
+*.log
